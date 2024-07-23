@@ -19,4 +19,3 @@ Virtual Machines
 
 #### Metasploitable
 - Loaded with known vulnerabilities used for testing tools and techniques.
-
